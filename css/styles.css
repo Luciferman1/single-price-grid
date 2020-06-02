@@ -1,0 +1,50 @@
+body { 
+	background-color: #E6EFF6;
+}
+h1 {
+	color: #fc7e2f;
+}
+.para-1{
+	color: #BFDF32;
+}
+.para-2 {
+	color: #dddddd;
+}
+
+.container {
+	padding: 4% 15%;
+}
+
+.community {
+	background-color: #FFFFFF;
+	border-radius: 5px;
+}
+.bullets {
+	list-style: none;
+}
+.Subscription {
+	padding: 3rem;
+	background-color: #2BB3B1;
+	border-radius: 2px;
+	color: #FFFFFF;
+	
+}
+.WhyUs {
+	padding: 3rem;
+    background-color: #4ABEBD;
+    color: #FFFFFF;
+    border-radius: 2px;
+
+}
+.buttons {
+	background-color: #BFDF32;
+	color: #FFF;
+	line-height: 2;
+	box-shadow: 10px 0px 1px #BFDF32;
+}
+.dollar {
+	font-size: 30px;
+}
+.attribution {
+	text-align: center;
+}
